@@ -4,7 +4,17 @@ import './Sidebar.css'
 function Sidebar() {
     return (
         <div className="sidebar">
-            <h1>Sidebar component</h1>
+            {/* Logo */}
+            {/* SidebarOption */}
+            {/* SidebarOption */}
+            {/* SidebarOption */}
+            {/* SidebarOption */}
+            {/* SidebarOption */}
+            {/* SidebarOption */}
+            {/* SidebarOption */}
+            
+            {/* Tweet button */}
+            
         </div>
     )
 }
