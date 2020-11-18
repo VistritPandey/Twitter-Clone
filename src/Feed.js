@@ -12,7 +12,7 @@ function Feed() {
             </div>
 
             <TweetBox />
-            
+                
             <FlipMove>
             </FlipMove>
         </div>
