@@ -11,8 +11,8 @@ function TweetBox() {
     e.preventDefault();
 
     db.collection("posts").add({
-      displayName: "Vistrit",
-      username: "VistritPandey",
+      displayName: "Dummy",
+      username: "DummyId",
       verified: true,
       text: tweetMessage,
       image: tweetImage,
