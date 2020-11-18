@@ -18,11 +18,11 @@ function Widgets() {
       <div className="widgets__widgetContainer">
         <h2>What's happening</h2>
 
-        <TwitterTweetEmbed tweetId={""} />
+        <TwitterTweetEmbed tweetId={"1326478014813646848"} />
 
         <TwitterTimelineEmbed
           sourceType="profile"
-          screenName="Vistrit"
+          screenName="VistritPandey"
           options={{ height: 400 }}
         />
 
